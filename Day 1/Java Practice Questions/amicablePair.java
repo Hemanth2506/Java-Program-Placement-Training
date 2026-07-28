@@ -16,7 +16,7 @@ public class amicablePair{
                 sum2+=i;
             }
         }
-        if(sum1==b&&sum2==a){
+        if(sum1==b && sum2==a){
             System.out.print("Amicable Pair");
         }
         else{
